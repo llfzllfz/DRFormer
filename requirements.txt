@@ -1,0 +1,10 @@
+pybind11
+pandas
+scipy
+tqdm
+scikit-learn
+boto3
+sentencepiece
+sacremoses
+timm
+dill
